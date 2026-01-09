@@ -2,7 +2,7 @@
 
 All notable changes to this project are documented in this file.
 
-## [2.0.0] - December 20th
+## [2.0.0] - December 20th, 2025 - January 9th, 2026
 
 ### Major Update: Rebrand to "ChargedUP: Behind The Scenes of an RC Car"
 
